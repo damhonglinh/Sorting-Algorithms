@@ -1,7 +1,7 @@
 Sorting-Algorithms
 ==================
 
-Implementation of 6 sorting algorithms:
+An implementation of 6 sorting algorithms:
 <ul>
   <li>Insertion Sort</li>
   <li>Merge Sort</li>
@@ -28,15 +28,15 @@ Current Result of the 6 sorting algorithms:
     <td>233 ms</td>
   </tr>
   <tr>
-    <td>Quicksort Hoare Sort</td>
+    <td>Quicksort with Hoare partition</td>
     <td>146 ms</td>
   </tr>
   <tr>
-    <td>Quicksort Median Sort</td>
+    <td>Quicksort with Median partition</td>
     <td>146 ms</td>
   </tr>
   <tr>
-    <td>Quicksort Random Sort</td>
+    <td>Quicksort with Random partition</td>
     <td>143 ms</td>
   </tr>
 </table>
