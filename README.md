@@ -17,34 +17,34 @@ Current Result of the 6 sorting algorithms:
 <table>
   <tr>
     <td>Insertion Sort</td>
-    <td>549 120 ms</td>
+    <td>345 810 ms</td>
   </tr>
   <tr>
     <td>Merge Sort</td>
-    <td>276 ms</td>
+    <td>196 ms</td>
   </tr>
   <tr>
     <td>Heap Sort</td>
-    <td>233 ms</td>
+    <td>196 ms</td>
   </tr>
   <tr>
     <td>Quicksort with Hoare partition</td>
-    <td>146 ms</td>
+    <td>116 ms</td>
   </tr>
   <tr>
     <td>Quicksort with Median partition</td>
-    <td>146 ms</td>
+    <td>113 ms</td>
   </tr>
   <tr>
     <td>Quicksort with Random partition</td>
-    <td>143 ms</td>
+    <td>110 ms</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>Test input</td>
-    <td>1 000 000 random integers. Each integer is 16-bits size</td>
+    <td>1 000 000 random integers. Each integer is 16-bits size. Source code is compiled using <code>-O2</code> flag</td>
   </tr>
   <tr>
     <td>Test output</td>
